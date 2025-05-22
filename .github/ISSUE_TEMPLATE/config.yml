@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Biz2Factory Documentation
+    url: https://github.com/your-username/Biz2Factory/tree/main/docs
+    about: Check out our documentation for answers to common questions.
+  - name: Feature Request
+    url: https://github.com/your-username/Biz2Factory/issues/new?template=feature_request.md
+    about: Suggest a new feature or enhancement for this project.
+  - name: Bug Report
+    url: https://github.com/your-username/Biz2Factory/issues/new?template=bug_report.md
+    about: Report a bug or issue you've found in the project. 
